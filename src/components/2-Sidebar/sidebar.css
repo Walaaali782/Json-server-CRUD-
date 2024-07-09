@@ -1,0 +1,13 @@
+.sidebar {
+    height: 300vh;
+    }
+
+a{
+    color: rgb(7, 28, 214);
+    text-decoration: none;
+}
+.sidebar li {
+    padding: 10px 5px;
+    text-align: center;
+}
+

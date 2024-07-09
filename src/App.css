@@ -1,0 +1,25 @@
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.row {
+   --bs-gutter-x: 0rem;
+}
+.sidebar{
+  height: 100vh;
+  background-color:var(--subtitle);
+}
+.half{
+  padding:0 15px;
+}
