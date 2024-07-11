@@ -1,0 +1,10 @@
+
+.sidebar li a{
+    color: #4d0378;
+    text-decoration: none;
+}
+.sidebar li {
+    padding: 10px 5px;
+    text-align: center;
+}
+
