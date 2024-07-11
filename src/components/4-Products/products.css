@@ -1,0 +1,36 @@
+
+.flex .text-center{
+padding: 5px;
+margin:5px  10px;
+width: 50px;
+text-align: center;
+}
+ h1{
+color: white;
+}
+.btn-success {
+    /* padding-left: 2px; */
+    margin-left: 5px;
+}
+.addnew{
+    background-color:  white;
+    color: #333;
+}
+.addnew:hover{
+    background-color:  rgb(234, 230, 230);
+    color: #333;
+}
+.search .form-control{
+    height: 40px;
+    width: 60%;
+}
+.search:-ms-input-placeholder {
+    font-size: 0.5rem;
+}
+.search .walaa {
+    height: 40px;
+    font-size: 0.9rem;
+    margin: 0 8px;
+    padding: 10px 15px;
+    border-radius: 10px;
+}

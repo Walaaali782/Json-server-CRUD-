@@ -1,0 +1,73 @@
+p/* Reset some default styles */
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+
+  
+  /* Header styles */
+ .home header {
+    text-align: center;
+    margin-bottom: 40px;
+    padding: 70px 0;
+  }
+  
+ .home header h1 {
+    padding-top: 15px;
+    font-size: 1.8em;
+    color: #4d0378;
+  }
+  
+ .home  header p {
+    font-size: 0.8em;
+    color: #3a3838;
+  }
+  
+  /* Section styles */
+  .left {
+    margin-bottom: 20px;
+    padding-top: 90px;
+  }
+  
+  h2 {
+    font-size: 1.6rem;
+    color: #4d0378;
+    margin-bottom: 10px;
+    font-weight: 700;
+  }
+  
+  .left p {
+    font-size: 1em;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    color: #393737;
+  }
+  section{
+    padding-bottom: 50px;
+  }
+  section ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  section a{
+    text-decoration: none;
+    color: #ea230d;
+  }
+  section ul li {
+    margin-bottom: 5px;
+    font-size: 1em;
+    color: #555;
+  }
+  section ul li:hover{
+    color: #4d0378;
+  }
+  .prog{
+    color: #4d0378;
+    font-size: 1.6rem;
+    margin-bottom: 10px;
+    font-weight: 700;
+  }
+  /* Link styles */
+  

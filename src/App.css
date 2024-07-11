@@ -1,0 +1,31 @@
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App {
+background-color: #000;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.row {
+   --bs-gutter-x: 0rem;
+}
+.App .row .container {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 4.5rem;
+  background-color:  rgb(24 24 27);;
+}
+
+.half{
+  padding:0 15px;
+}

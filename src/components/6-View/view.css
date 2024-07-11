@@ -1,0 +1,63 @@
+
+
+
+
+
+  /* تصميم البطاقة */
+  .card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* ظل خفيف للبطاقة */
+    border-radius: 8px; /* حواف مستديرة */
+    overflow: hidden; /* لتجنب تجاوز المحتوى */
+    transition: transform 0.2s; /* تأثير تكبير عند التمرير */
+    background-color: #fff; /* لون خلفية البطاقة */
+    text-align: center; /* توسيط النص */
+    padding: 10px 20px;
+    margin-top: 30px;
+
+  }
+  .App .row .card .container{
+    margin-top: 2px;
+    background-color: rgb(255, 255, 255);
+
+  }
+
+  img {
+    margin: 15px 0 ;
+  }
+  /* صورة البطاقة */
+  .card-img-top {
+    width: 60%; /* عرض كامل للصورة */
+    height: 200px; /* ارتفاع محدد للصورة */
+    object-fit: cover; /* تعبئة الصورة لتناسب الحاوية */
+  }
+  .card h6{
+    font-size: 1.0em;
+    color: #434141;
+    margin: 15px 0;
+    line-height: 1.5;
+  }
+  /* جسم البطاقة */
+  .card-body {
+    padding: 16px;
+  }
+  
+  /* عنوان البطاقة */
+  .card-title {
+    font-size: 1.5em;
+    margin: 18px 0;
+    color: #434141;
+    padding-bottom: 10px;
+  }
+  
+  /* نص البطاقة */
+  .card-text {
+    font-size: 1.3rem;
+    color: #0a158a;
+    margin-bottom: 16px;
+    font-weight:900 ;
+  }
+ .catogryname{
+    font-size: 1.6em;
+    margin: 18px 0;
+    color: #dc3d3d;
+  }
