@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Walaaali782/Json-server-CRUD/static/css/main.ac0a0f10.css",
+    "main.js": "/Walaaali782/Json-server-CRUD/static/js/main.038107ff.js",
+    "static/js/453.67bc29aa.chunk.js": "/Walaaali782/Json-server-CRUD/static/js/453.67bc29aa.chunk.js",
+    "index.html": "/Walaaali782/Json-server-CRUD/index.html",
+    "main.ac0a0f10.css.map": "/Walaaali782/Json-server-CRUD/static/css/main.ac0a0f10.css.map",
+    "main.038107ff.js.map": "/Walaaali782/Json-server-CRUD/static/js/main.038107ff.js.map",
+    "453.67bc29aa.chunk.js.map": "/Walaaali782/Json-server-CRUD/static/js/453.67bc29aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac0a0f10.css",
+    "static/js/main.038107ff.js"
+  ]
+}
